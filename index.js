@@ -10,8 +10,7 @@ function johnLennonFacts(){
   var array=[];
   var i=0;
   while (i<facts.length){
-    return array.push(facts[i]+'!!!');
-  }
+    return i
 }
 function iLoveTheBeatles(n){
   var array=[];
